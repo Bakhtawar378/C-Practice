@@ -17,7 +17,7 @@ This is a basic Quiz Game project written in C++. It's great for beginners to un
 Use the `g++` compiler in the terminal to compile all `.cpp` files together. Make sure you're in the project directory.
 
 ```bash
-g++ main.cpp quiz.cpp leaderboard.cpp -o quizgame.exe ```
+g++ main.cpp quiz.cpp leaderboard.cpp -o quizgame.exe 
 
 //This will generate an executable file named quizgame.exe.
 
